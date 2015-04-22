@@ -1,0 +1,2 @@
+#1.This is simply a test for creating a git(github) 'project' (name correct?) using `git init` on cmd line from a directory.
+#2.Next step is to create a text file locally and 'sync' (name correct?) that file with the Git(github) repository on the web (cloud!!)
